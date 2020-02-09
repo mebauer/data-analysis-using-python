@@ -1,15 +1,15 @@
-**A Beginner's Guide to Data Analysis Using Python**
+# A Beginner's Guide to Data Analysis Using Python
 
 *Mark Bauer*
 
 
 
-Table of contents
+Table of Contents
 =================
 
    * [1 Executive Summary](#1-Executive-Summary)
    * [2 Introduction](#2-Introduction)
-   * [23 Sections in this series](#3-Sections-in-this-series)
+   * [3 Sections in this Series](#3-Sections-in-this-Series)
 
 
 # 1 Executive Summary
@@ -32,7 +32,7 @@ git pull
 
 but you will not be able to make changes to my repository.
 
-Otherwise, if you want the repository on your account with the ability to make changes _to your own copy_, you can __fork__ the repository and have your own copy in your github account (it will be at http://github.com/<username>/data-analysis-using-python).
+Otherwise, if you want the repository on your account with the ability to make changes _to your own copy_, you can __fork__ the repository and have your own copy in your github account (it will be at http://github.com/*your_user_name*/data-analysis-using-python).
  
  _If you see a mistake and you want to propose a change, you can submit a pull request, but be very clear about the change and its motivation in the description of your pull request._
  

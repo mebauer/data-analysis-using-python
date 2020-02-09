@@ -1,4 +1,5 @@
 **A Beginner's Guide to Data Analysis Using Python**
+
 Part 3: Plotting and Visualizations
 
 *Mark Bauer*
@@ -8,13 +9,9 @@ Part 3: Plotting and Visualizations
 Table of contents
 =================
 
-   * [1 Executive Summary](#1-Executive-Summary)
-   * [2 Introduction](#2-Introduction)
+   * [1 Introduction](#1-Introduction)
 
 
-# 1 Executive Summary
-
-
-# 2 Introduction
+# 1 Introduction
 
 
