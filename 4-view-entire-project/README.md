@@ -4,14 +4,3 @@ Part 4: Putting It All Together - A Sample Data Analysis Project with NYC Open D
 
 *Mark Bauer*
 
-
-
-Table of contents
-=================
-
-   * [1 Introduction](#1-Introduction)
-
-
-# 1 Introduction
-
-
