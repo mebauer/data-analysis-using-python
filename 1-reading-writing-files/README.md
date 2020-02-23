@@ -7,9 +7,9 @@ Part 1 of this series displays various ways to read (load) and write (save) data
 
 There are three parts to my project as follows:
 
-Reading In Data,
-Writing Out Data, and
-Reading In Data From Your Local Folder.
+- Reading In Data,  
+- Writing Out Data, and  
+- Reading In Data From Your Local Folder.
 
 The project can be located in my notebook [1-reading-writing-files.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1-reading-writing-files.ipynb).
 
