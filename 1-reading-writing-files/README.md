@@ -3,7 +3,7 @@
 Part 1: Data Loading, Storage, and File Formats
 
 **Introduction**  
-Part 1 of this series displays various ways to read (load) and write (save) data using the Python programming language. I have chosen to work with datasets exclusively from NYC Open Data. Additionally, we will go through common fle formats found on NYC Open Data such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information), and zip files.
+Part 1 of this series displays various ways to read (load) and write (save) data using the Python programming language. I have chosen to work with datasets exclusively from NYC Open Data. Additionally, we will go through common file formats found on NYC Open Data such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information), and zip files.
 
 There are three parts to my project as follows:
 
