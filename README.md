@@ -1,4 +1,4 @@
-# A Beginner's Guide to Data Analysis Using Python
+# Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data
 
 *Mark Bauer*
 
@@ -7,17 +7,15 @@ Table of Contents
 =================
 
    * [1. Introduction](#1.-Introduction)
-   * [2. Sections in this Series](#2.-Sections-in-this-Series)
+   * [2. Sections](#2.-Sections)
 
 
 # 1. Introduction
 
-This repository includes notebooks that will be explored in this series *A Beginner's Guide to Data Analysis Using Python.* Exercises will use the [Python programming language](https://www.python.org/), and all datasets will be from [NYC Open Data](https://opendata.cityofnewyork.us/).
+*A Beginner's Guide to Data Analysis Using Python* is a four-part series as listed in the sections below. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). The series concludes with a sample data analysis project that exemplifies how data inspection, transformation and modelling can be used for discovering useful information and supporting decision-making.
 
  
-# 2. Sections in this Series 
- 
-The sections in this series are as follows:
+# 2. Sections 
  
 - Part 1: [Reading and Writing Files in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/1-reading-writing-files).
  

@@ -1,4 +1,4 @@
-**A Beginner's Guide to Data Analysis Using Python**
+**Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data**
 
 Part 2: Data Cleaning and Wrangling
 
