@@ -3,7 +3,7 @@
 Part 2: Data Cleaning and Wrangling
 
 **Introduction**  
-Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data.
+Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2-data-cleaning-wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-cleaning-wrangling/2-data-cleaning-wrangling.ipynb).
 
 Key Sections as follows:
 
@@ -24,16 +24,14 @@ Key Sections as follows:
  - 4.9 Plotting Histogram of Construction Years with Cleaned Column
 
 **5. Detecting Outliers**
- - 5.1. Making a Box Plot](#-5.1-Making-a-Box-Plot)
+ - 5.1. Making a Box Plot
     - 5.1.1 Calculating Interquartile Range (IQR)
     - 5.1.2 Box Plot of Construction Year Values
     - 5.1.3 Making Histograms of Values Above and Below Box Plot Whiskers
- - 5.2 Z-Scores](#-5.2-Z-Scores)
+ - 5.2 Z-Scores
     - 5.2.1 Calculating Z-Scores
     - 5.2.2 Identifying Possible Outliers from Z-Score
     - 5.2.3 Making Histograms of Construction Year Raw and Normalized (Z-Score) Values
-
-The project is located in my notebook [2-data-cleaning-wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-cleaning-wrangling/2-data-cleaning-wrangling.ipynb).
 
 Feedback is very welcome!
 
