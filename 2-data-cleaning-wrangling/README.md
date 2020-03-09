@@ -7,12 +7,12 @@ Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any o
 
 Key Sections as follows:
 
-3. Data Inspection
+**3. Data Inspection**
  - 3.1 Previewing Data
  - 3.2 Calcualting Summary Statistics
  - 3.3 Identifying Null/NA Values
  
-4. Data Cleaning/Wrangling 
+**4. Data Cleaning/Wrangling** 
  - 4.1 Previewing Column Values
  - 4.2 Filling In Null/NA Values With Median
  - 4.3 Plotting Histogram of Raw Construction Year Values   
@@ -23,7 +23,7 @@ Key Sections as follows:
  - 4.8 Replacing Values Less Than 1652 with the Median)
  - 4.9 Plotting Histogram of Construction Years with Cleaned Column
 
-5. Detecting Outliers
+**5. Detecting Outliers**
  - 5.1. Making a Box Plot](#-5.1-Making-a-Box-Plot)
     - 5.1.1 Calculating Interquartile Range (IQR)
     - 5.1.2 Box Plot of Construction Year Values
