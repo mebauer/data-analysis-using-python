@@ -1,11 +1,11 @@
 **Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data**
 
-Part 2: Data Cleaning and Wrangling
+Part 2: Data Inspection, Cleaning and Wrangling in Python
 
 **Introduction**  
 Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2-data-cleaning-wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-cleaning-wrangling/2-data-cleaning-wrangling.ipynb).
 
-Key Sections as follows:
+Key sections as follows:
 
 **3. Data Inspection**
  - 3.1 Previewing Data
@@ -20,7 +20,7 @@ Key Sections as follows:
  - 4.5 Replacing Values Not Between Years 1 and 2020 with the Median
  - 4.6 Plotting Histogram of Construction Years Between 1 and 2020
  - 4.7 Identifying Buildings Built Before 1652 - Possible Outliers
- - 4.8 Replacing Values Less Than 1652 with the Median)
+ - 4.8 Replacing Values Less Than 1652 with the Median
  - 4.9 Plotting Histogram of Construction Years with Cleaned Column
 
 **5. Detecting Outliers**
