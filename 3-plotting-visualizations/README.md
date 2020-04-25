@@ -1,4 +1,4 @@
-** Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data**
+**Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data**
 
 Part 3: Plotting and Visualizations
 
@@ -7,73 +7,72 @@ Part 3: Plotting and Visualizations
 
 # Figures
 
+
 ## Line Plot
 
-![epi curve](figures/epi_curve.png)
+![line-plot-3](figures/line-plot-3.png)
 
-![epi curve](figures/epi_curve.png)
+![line-plot-6](figures/line-plot-6.png)
 
-![epi curve](figures/epi_curve.png)
+## Area Plot
+
+![area-plot-1](figures/area-plot-1.png)
+
+![area-plot-3](figures/area-plot-3.png)
 
 ## Bar Plot
 
-![epi curve](figures/epi_curve.png)
+![bar-plot-1](figures/bar-plot-1.png)
 
-![epi curve](figures/epi_curve.png)
+![bar-plot-3](figures/bar-plot-3.png)
 
-![epi curve](figures/epi_curve.png)
+![bar-plot-4](figures/bar-plot-4.png)
 
 ## Pie Plot
 
-![epi curve](figures/epi_curve.png)
+![pie-plot-1](figures/pie-plot-1.png)  
 
-![epi curve](figures/epi_curve.png)
+![pie-plot-2](figures/pie-plot-2.png) 
 
 ## Histogram
 
-![epi curve](figures/epi_curve.png)
+![hist-plot-1](figures/hist-plot-1.png)
 
-![epi curve](figures/epi_curve.png)
+![hist-plot-3](figures/hist-plot-3.png)
 
-![epi curve](figures/epi_curve.png)
-
-## Box Plot
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
+![hist-plot-5](figures/hist-plot-5.png)
 
 ## Kernel Density Estimate (KDE) Plot
 
-![epi curve](figures/epi_curve.png)
+![kde-plot-1(figures/kde-plot-1.png)
 
-![epi curve](figures/epi_curve.png)
+## Box Plot
 
-![epi curve](figures/epi_curve.png)
+![box-plot-1](figures/box-plot-1.png)
+
+![box-plot-3](figures/box-plot-3.png)
 
 ## Scatter Plot
 
-![epi curve](figures/epi_curve.png)
+![scatter-plot-1](figures/scatter-plot-1.png)
 
-![epi curve](figures/epi_curve.png)
+![scatter-plot-2](figures/scatter-plot-2.png)
 
-![epi curve](figures/epi_curve.png)
+![scatter-plot-3](figures/scatter-plot-3.png)
 
-## Joint Plots
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
+![scatter-plot-4](figures/scatter-plot-4.png)
 
 ## Pair Plot
 
 ![epi curve](figures/epi_curve.png)
 
-![epi curve](figures/epi_curve.png)
+## Hexagonal Bin Plot
+
+![hexbin-plot-2](figures/hexbin-plot-2.png)
+
+![hexbin-plot-3](figures/hexbin-plot-3.png)
+
+## Joint Plots
 
 ![epi curve](figures/epi_curve.png)
 
@@ -81,21 +80,3 @@ Part 3: Plotting and Visualizations
 
 ![epi curve](figures/epi_curve.png)
 
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-## Hexagonal Bin Plot
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
