@@ -9,28 +9,28 @@ Table of Contents
 =================
 
    * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [Line Plot](#Line-Plot)
+       * [Area Plot](#Area-Plot)
+       * [Bar Plot](#Bar-Plot)
+       * [Pie Plot](#Pie-Plot)
+       * [Histogram](#Histogram)
+       * [Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-(KDE)-Plot)
+       * [Box Plot](#Box-Plot)
+       * [Scatter Plot](#Scatter-Plot)
+       * [Hexagonal Bin Plot](#Hexagonal-Bin-Plot)
    * [2. Seaborn Library](#2-Seaborn-Library)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [Pair Plots](#Pair-Plots)
+       * [Joint Plots](#Joint-Plots)
+       * [Categorial Plots](#Categorial-Plots)
+           * [Bar Plots](#Bar-Plots)
+           * [Scatter Plots](#Scatter-Plots)
+           * [Histograms](#Histograms)
+           * [Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-(KDE)-Plot)
+           * [Swarm Plots](#Swarm-Plots)
+           * [Box Plots](#Box-Plots)
+           * [Violin Plots](#Violin-Plots)
+           * [Point Plots](#Point-Plots)
+           * [Showing Multiple Relationships with Facets](#Showing-Multiple-Relationships-with-Facets)
    
 
 
@@ -98,7 +98,7 @@ Table of Contents
 
 # 2. Seaborn Library
 
-## Pair Plot
+## Pair Plots
 
 ![pair-plot-1-seaborn](figures/pair-plot-1-seaborn.png)
 
