@@ -9,7 +9,7 @@ Table of Contents
 =================
 
    * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
-   * [2. 2. Seaborn Library](#2.-Seaborn-Library)
+   * [2. Seaborn Library](#2-Seaborn-Library)
    
 
 
