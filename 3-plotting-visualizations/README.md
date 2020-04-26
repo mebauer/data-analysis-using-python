@@ -8,7 +8,7 @@ Part 3: Plotting and Visualizations
 Table of Contents
 =================
 
-   * [1. Pandas & Matplotlib Libraries](#1-Pandas-and-Matplotlib-Libraries)
+   * [1. Pandas and Matplotlib Libraries](#1-Pandas-and-Matplotlib-Libraries)
        * [Line Plot](#Line-Plot)
        * [Area Plot](#Area-Plot)
        * [Bar Plot](#Bar-Plot)
@@ -25,7 +25,7 @@ Table of Contents
            * [Bar Plots](#Bar-Plots)
            * [Scatter Plots](#Scatter-Plots)
            * [Histograms](#Histograms)
-           * [Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-(KDE)-Plot)
+           * [Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-KDE-Plot)
            * [Swarm Plots](#Swarm-Plots)
            * [Box Plots](#Box-Plots)
            * [Violin Plots](#Violin-Plots)
