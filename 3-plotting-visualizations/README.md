@@ -9,7 +9,28 @@ Table of Contents
 =================
 
    * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
    * [2. Seaborn Library](#2-Seaborn-Library)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+       * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+           * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
    
 
 
