@@ -156,10 +156,6 @@ Table of Contents
 
 ![scatter-plot-8-seaborn](figures/scatter-plot-8-seaborn.png)
 
-![scatter-plot-9-seaborn](figures/scatter-plot-9-seaborn.png)
-
-![scatter-plot-10-seaborn](figures/scatter-plot-10-seaborn.png)
-
 ![scatter-plot-11-seaborn](figures/scatter-plot-11-seaborn.png)
 
 ![scatter-plot-12-seaborn](figures/scatter-plot-12-seaborn.png)
@@ -209,8 +205,6 @@ Table of Contents
 ![cat-violin-plot-6-seaborn](figures/cat-violin-plot-6-seaborn.png)
 
 ![cat-violin-plot-7-seaborn](figures/cat-violin-plot-7-seaborn.png)
-
-![cat-violin-plot-9-seaborn](figures/cat-violin-plot-9-seaborn.png)
 
 ### 2.3.8 Point Plots
 
