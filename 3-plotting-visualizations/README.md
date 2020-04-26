@@ -44,7 +44,7 @@ Part 3: Plotting and Visualizations
 
 ## Kernel Density Estimate (KDE) Plot
 
-![kde-plot-1(figures/kde-plot-1.png)
+![kde-plot-1](figures/kde-plot-1.png)
 
 ## Box Plot
 
@@ -64,7 +64,9 @@ Part 3: Plotting and Visualizations
 
 ## Pair Plot
 
-![epi curve](figures/epi_curve.png)
+![pair-plot-1-seaborn](figures/pair-plot-1-seaborn.png)
+
+![pair-plot-2-seaborn](figures/pair-plot-2-seaborn.png)
 
 ## Hexagonal Bin Plot
 
@@ -74,9 +76,87 @@ Part 3: Plotting and Visualizations
 
 ## Joint Plots
 
+![joint-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
+
+![hexbin-plot-1-seaborn](figures/hexbin-plot-1-seaborn.png)
+
+![joint-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
+
+![joint-plot-2-seaborn](figures/joint-plot-2-seaborn.png)
+
+![joint-plot-3-seaborn](figures/joint-plot-3-seaborn.png)
+
+![joint-plot-4-seaborn](figures/joint-plot-4-seaborn.png)
+
+![epi curve](figures/epi_curve.png)
+
+![epi curve](figures/epi_curve.png)
+
 ![epi curve](figures/epi_curve.png)
 
 ## Categorial Plots
 
-![epi curve](figures/epi_curve.png)
+![cat-scatter-plot-1-seaborn](figures/cat-scatter-plot-1-seaborn.png)
+
+![cat-scatter-plot-2-seaborn](figures/cat-scatter-plot-2-seaborn.png)
+
+![cat-swarm-plot-1-seaborn](figures/cat-swarm-plot-1-seaborn.png)
+
+![cat-swarm-plot-2-seaborn](figures/cat-swarm-plot-2-seaborn.png)
+
+![cat-box-plot-1-seaborn](figures/cat-box-plot-1-seaborn.png)
+
+![cat-box-plot-2-seaborn](figures/cat-box-plot-2-seaborn.png)
+
+![cat-boxen-plot-1-seaborn](figures/cat-boxen-plot-1-seaborn.png)
+
+![cat-violin-plot-1-seaborn](figures/cat-violin-plot-1-seaborn.png)
+
+![cat-violin-plot-3-seaborn](figures/cat-violin-plot-3-seaborn.png)
+
+![cat-violin-plot-4-seaborn](figures/cat-violin-plot-4-seaborn.png)
+
+![cat-violin-plot-5-seaborn](figures/cat-violin-plot-5-seaborn.png)
+
+![cat-violin-plot-6-seaborn](figures/cat-violin-plot-6-seaborn.png)
+
+![cat-violin-plot-7-seaborn](figures/cat-violin-plot-7-seaborn.png)
+
+![cat-violin-plot-9-seaborn](figures/cat-violin-plot-9-seaborn.png)
+
+![cat-bar-plot-1-seaborn](figures/cat-bar-plot-1-seaborn.png)
+
+![cat-bar-plot-2-seaborn](figures/cat-bar-plot-2-seaborn.png)
+
+![cat-bar-plot-3-seaborn](figures/cat-bar-plot-3-seaborn.png)
+
+![cat-bar-plot-4-seaborn](figures/cat-bar-plot-4-seaborn.png)
+
+![cat-bar-plot-5-seaborn](figures/cat-bar-plot-5-seaborn.png)
+
+![cat-bar-plot-6-seaborn](figures/cat-bar-plot-6-seaborn.png)
+
+![cat-bar-plot-7-seaborn](figures/cat-bar-plot-7-seaborn.png)
+
+![cat-point-plot-1-seaborn](figures/cat-point-plot-1-seaborn.png)
+
+![cat-point-plot-2-seaborn](figures/cat-point-plot-2-seaborn.png)
+
+![cat-point-plot-3-seaborn](figures/cat-point-plot-3-seaborn.png)
+
+![scatter-plot-5-seaborn](figures/scatter-plot-5-seaborn.png)
+
+![scatter-plot-6-seaborn](figures/scatter-plot-6-seaborn.png)
+
+![scatter-plot-7-seaborn](figures/scatter-plot-7-seaborn.png)
+
+![scatter-plot-8-seaborn](figures/scatter-plot-8-seaborn.png)
+
+![scatter-plot-9-seaborn](figures/scatter-plot-9-seaborn.png)
+
+![scatter-plot-10-seaborn](figures/scatter-plot-10-seaborn.png)
+
+![scatter-plot-11-seaborn](figures/scatter-plot-11-seaborn.png)
+
+![scatter-plot-12-seaborn](figures/scatter-plot-12-seaborn.png)
 
