@@ -9,46 +9,46 @@ Table of Contents
 =================
 
    * [1. Pandas and Matplotlib Libraries](#1-Pandas-and-Matplotlib-Libraries)
-       * [Line Plot](#Line-Plot)
-       * [Area Plot](#Area-Plot)
-       * [Bar Plot](#Bar-Plot)
-       * [Pie Plot](#Pie-Plot)
-       * [Histogram](#Histogram)
-       * [Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-KDE-Plot)
-       * [Box Plot](#Box-Plot)
-       * [Scatter Plot](#Scatter-Plot)
-       * [Hexagonal Bin Plot](#Hexagonal-Bin-Plot)
+       * [1.1. Line Plot](#1-1-Line-Plot)
+       * [1.2 Area Plot](#Area-Plot)
+       * [1.3 Bar Plot](#Bar-Plot)
+       * [1.4 Pie Plot](#Pie-Plot)
+       * [1.5 Histogram](#Histogram)
+       * [1.6 Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-KDE-Plot)
+       * [1.7 Box Plot](#Box-Plot)
+       * [1.8 Scatter Plot](#Scatter-Plot)
+       * [1.9 Hexagonal Bin Plot](#Hexagonal-Bin-Plot)
    * [2. Seaborn Library](#2-Seaborn-Library)
-       * [Pair Plots](#Pair-Plots)
-       * [Joint Plots](#Joint-Plots)
-       * [Categorial Plots](#Categorial-Plots)
-           * [Bar Plots](#Bar-Plots)
-           * [Scatter Plots](#Scatter-Plots)
-           * [Histograms](#Histograms)
-           * [Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-KDE-Plot)
-           * [Swarm Plots](#Swarm-Plots)
-           * [Box Plots](#Box-Plots)
-           * [Violin Plots](#Violin-Plots)
-           * [Point Plots](#Point-Plots)
-           * [Showing Multiple Relationships with Facets](#Showing-Multiple-Relationships-with-Facets)
+       * [2.1 Pair Plots](#2-1-Pair-Plots)
+       * [2.2 Joint Plots](#Joint-Plots)
+       * [2.3 Categorial Plots](#Categorial-Plots)
+           * [2.3.1 Bar Plots](#Bar-Plots)
+           * [2.3.2 Scatter Plots](#Scatter-Plots)
+           * [2.3.3 Histograms](#Histograms)
+           * [2.3.4 Kernel Density Estimate (KDE) Plot](#Kernel-Density-Estimate-KDE-Plot)
+           * [2.3.5 Swarm Plots](#Swarm-Plots)
+           * [2.3.6 Box Plots](#Box-Plots)
+           * [2.3.7 Violin Plots](#Violin-Plots)
+           * [2.3.8 Point Plots](#Point-Plots)
+           * [2.3.9 Showing Multiple Relationships with Facets](#Showing-Multiple-Relationships-with-Facets)
    
 
 
-# 1. Pandas & Matplotlib Libraries
+# 1. Pandas and Matplotlib Libraries
 
-## Line Plot
+## 1.1 Line Plot
 
 ![line-plot-3](figures/line-plot-3.png)
 
 ![line-plot-6](figures/line-plot-6.png)
 
-## Area Plot
+## 1.2 Area Plot
 
 ![area-plot-1](figures/area-plot-1.png)
 
 ![area-plot-3](figures/area-plot-3.png)
 
-## Bar Plot
+## 1.3 Bar Plot
 
 ![bar-plot-1](figures/bar-plot-1.png)
 
@@ -56,13 +56,13 @@ Table of Contents
 
 ![bar-plot-4](figures/bar-plot-4.png)
 
-## Pie Plot
+## 1.4 Pie Plot
 
 ![pie-plot-1](figures/pie-plot-1.png)  
 
 ![pie-plot-2](figures/pie-plot-2.png) 
 
-## Histogram
+## 1.5 Histogram
 
 ![hist-plot-1](figures/hist-plot-1.png)
 
@@ -70,17 +70,17 @@ Table of Contents
 
 ![hist-plot-5](figures/hist-plot-5.png)
 
-## Kernel Density Estimate (KDE) Plot
+## 1.6 Kernel Density Estimate (KDE) Plot
 
 ![kde-plot-1](figures/kde-plot-1.png)
 
-## Box Plot
+## 1.7 Box Plot
 
 ![box-plot-1](figures/box-plot-1.png)
 
 ![box-plot-3](figures/box-plot-3.png)
 
-## Scatter Plot
+## 1.8 Scatter Plot
 
 ![scatter-plot-1](figures/scatter-plot-1.png)
 
@@ -90,7 +90,7 @@ Table of Contents
 
 ![scatter-plot-4](figures/scatter-plot-4.png)
 
-## Hexagonal Bin Plot
+## 1.9 Hexagonal Bin Plot
 
 ![hexbin-plot-2](figures/hexbin-plot-2.png)
 
@@ -98,13 +98,13 @@ Table of Contents
 
 # 2. Seaborn Library
 
-## Pair Plots
+## 2.1 Pair Plots
 
 ![pair-plot-1-seaborn](figures/pair-plot-1-seaborn.png)
 
 ![pair-plot-2-seaborn](figures/pair-plot-2-seaborn.png)
 
-## Joint Plots
+## 2.2 Joint Plots
 
 ![joint-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
 
@@ -116,9 +116,9 @@ Table of Contents
 
 ![hexbin-plot-4-seaborn](figures/hexbin-plot-4-seaborn.png)
 
-## Categorial Plots
+## 2.3 Categorial Plots
 
-### Bar Plots
+### 2.3.1 Bar Plots
 
 ![cat-bar-plot-1-seaborn](figures/cat-bar-plot-1-seaborn.png)
 
@@ -134,7 +134,7 @@ Table of Contents
 
 ![cat-bar-plot-7-seaborn](figures/cat-bar-plot-7-seaborn.png)
 
-### Scatter Plots
+### 2.3.2 Scatter Plots
 
 ![cat-scatter-plot-1-seaborn](figures/cat-scatter-plot-1-seaborn.png)
 
@@ -156,13 +156,13 @@ Table of Contents
 
 ![scatter-plot-12-seaborn](figures/scatter-plot-12-seaborn.png)
 
-### Histograms
+### 2.3.3 Histograms
 
 ![hist-plot-1-seaborn](figures/hist-plot-1-seaborn.png)
 
 ![hist-plot-2-seaborn](figures/hist-plot-2-seaborn.png)
 
-### Kernel Density Estimate (KDE) Plot
+### 2.3.4 Kernel Density Estimate (KDE) Plot
 
 ![kde-plot-1-seaborn](figures/kde-plot-1-seaborn.png)
 
@@ -174,13 +174,13 @@ Table of Contents
 
 ![param-dist-plot-1-seaborn](figures/param-dist-plot-1-seaborn.png)
 
-### Swarm Plots
+### 2.3.5 Swarm Plots
 
 ![cat-swarm-plot-1-seaborn](figures/cat-swarm-plot-1-seaborn.png)
 
 ![cat-swarm-plot-2-seaborn](figures/cat-swarm-plot-2-seaborn.png)
 
-### Box Plots
+### 2.3.6 Box Plots
 
 ![cat-box-plot-1-seaborn](figures/cat-box-plot-1-seaborn.png)
 
@@ -188,7 +188,7 @@ Table of Contents
 
 ![cat-boxen-plot-1-seaborn](figures/cat-boxen-plot-1-seaborn.png)
 
-### Violin Plots
+### 2.3.7 Violin Plots
 
 ![cat-violin-plot-1-seaborn](figures/cat-violin-plot-1-seaborn.png)
 
@@ -204,7 +204,7 @@ Table of Contents
 
 ![cat-violin-plot-9-seaborn](figures/cat-violin-plot-9-seaborn.png)
 
-### Point Plots
+### 2.3.8 Point Plots
 
 ![cat-point-plot-1-seaborn](figures/cat-point-plot-1-seaborn.png)
 
@@ -212,7 +212,7 @@ Table of Contents
 
 ![cat-point-plot-3-seaborn](figures/cat-point-plot-3-seaborn.png)
 
-### Showing Multiple Relationships with Facets
+### 2.3.9 Showing Multiple Relationships with Facets
 
 ![cat-facets-plot-1-seaborn](figures/cat-facets-plot-1-seaborn.png)
 
