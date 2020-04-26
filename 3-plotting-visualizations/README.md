@@ -22,7 +22,7 @@ Table of Contents
        * [2.1 Pair Plots](#21-Pair-Plots)
        * [2.2 Joint Plots](#22-Joint-Plots)
            * [2.2.1 Scatter Plot with Marginal Histograms](#221-Scatter-Plot-with-Marginal-Histograms)
-           * [2.2.2 Hexagonal Bin Plots with Marginal Histograms](#222-Hexagonal-Bin-Plots-with Marginal-Histograms)
+           * [2.2.2 Hexagonal Bin Plots with Marginal Histograms](#222-Hexagonal-Bin-Plots-with-Marginal-Histograms)
        * [2.3 Categorial Plots](#23-Categorial-Plots)
            * [2.3.1 Bar Plots](#231-Bar-Plots)
            * [2.3.2 Scatter Plots](#232-Scatter-Plots)
