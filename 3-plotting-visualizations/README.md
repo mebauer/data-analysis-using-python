@@ -116,7 +116,7 @@ Table of Contents
 
 ![hexbin-plot-4-seaborn](figures/hexbin-plot-4-seaborn.png)
 
-![hexbin-plot-5-seaborn](figures/hexbin-plot-4-seaborn.png)
+![hexbin-plot-5-seaborn](figures/hexbin-plot-5-seaborn.png)
 
 ## 2.3 Categorial Plots
 
