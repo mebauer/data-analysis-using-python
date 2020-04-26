@@ -9,7 +9,7 @@ Table of Contents
 =================
 
    * [1. Pandas and Matplotlib Libraries](#1-Pandas-and-Matplotlib-Libraries)
-       * [1.1. Line Plot](#1-1-Line-Plot)
+       * [1.1 Line Plot](#1-Line-Plot)
        * [1.2 Area Plot](#Area-Plot)
        * [1.3 Bar Plot](#Bar-Plot)
        * [1.4 Pie Plot](#Pie-Plot)
@@ -19,7 +19,7 @@ Table of Contents
        * [1.8 Scatter Plot](#Scatter-Plot)
        * [1.9 Hexagonal Bin Plot](#Hexagonal-Bin-Plot)
    * [2. Seaborn Library](#2-Seaborn-Library)
-       * [2.1 Pair Plots](#2-1-Pair-Plots)
+       * [2.1 Pair Plots](#21-Pair-Plots)
        * [2.2 Joint Plots](#Joint-Plots)
        * [2.3 Categorial Plots](#Categorial-Plots)
            * [2.3.1 Bar Plots](#Bar-Plots)
