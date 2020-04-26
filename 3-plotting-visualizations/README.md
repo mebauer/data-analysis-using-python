@@ -7,6 +7,7 @@ Part 3: Plotting and Visualizations
 
 # Figures
 
+# Pandas & Matplotlib Libraries
 
 ## Line Plot
 
@@ -62,67 +63,35 @@ Part 3: Plotting and Visualizations
 
 ![scatter-plot-4](figures/scatter-plot-4.png)
 
-## Pair Plot
-
-![pair-plot-1-seaborn](figures/pair-plot-1-seaborn.png)
-
-![pair-plot-2-seaborn](figures/pair-plot-2-seaborn.png)
-
 ## Hexagonal Bin Plot
 
 ![hexbin-plot-2](figures/hexbin-plot-2.png)
 
 ![hexbin-plot-3](figures/hexbin-plot-3.png)
 
+# Seaborn Library
+
+## Pair Plot
+
+![pair-plot-1-seaborn](figures/pair-plot-1-seaborn.png)
+
+![pair-plot-2-seaborn](figures/pair-plot-2-seaborn.png)
+
 ## Joint Plots
 
-![joint-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
+![hexbin-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
 
 ![hexbin-plot-1-seaborn](figures/hexbin-plot-1-seaborn.png)
 
-![joint-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
+![joint-plot-2-seaborn](figures/hexbin-plot-2-seaborn.png)
 
-![joint-plot-2-seaborn](figures/joint-plot-2-seaborn.png)
+![joint-plot-3-seaborn](figures/hexbin-plot-3-seaborn.png)
 
-![joint-plot-3-seaborn](figures/joint-plot-3-seaborn.png)
-
-![joint-plot-4-seaborn](figures/joint-plot-4-seaborn.png)
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
-
-![epi curve](figures/epi_curve.png)
+![joint-plot-4-seaborn](figures/hexbin-plot-4-seaborn.png)
 
 ## Categorial Plots
 
-![cat-scatter-plot-1-seaborn](figures/cat-scatter-plot-1-seaborn.png)
-
-![cat-scatter-plot-2-seaborn](figures/cat-scatter-plot-2-seaborn.png)
-
-![cat-swarm-plot-1-seaborn](figures/cat-swarm-plot-1-seaborn.png)
-
-![cat-swarm-plot-2-seaborn](figures/cat-swarm-plot-2-seaborn.png)
-
-![cat-box-plot-1-seaborn](figures/cat-box-plot-1-seaborn.png)
-
-![cat-box-plot-2-seaborn](figures/cat-box-plot-2-seaborn.png)
-
-![cat-boxen-plot-1-seaborn](figures/cat-boxen-plot-1-seaborn.png)
-
-![cat-violin-plot-1-seaborn](figures/cat-violin-plot-1-seaborn.png)
-
-![cat-violin-plot-3-seaborn](figures/cat-violin-plot-3-seaborn.png)
-
-![cat-violin-plot-4-seaborn](figures/cat-violin-plot-4-seaborn.png)
-
-![cat-violin-plot-5-seaborn](figures/cat-violin-plot-5-seaborn.png)
-
-![cat-violin-plot-6-seaborn](figures/cat-violin-plot-6-seaborn.png)
-
-![cat-violin-plot-7-seaborn](figures/cat-violin-plot-7-seaborn.png)
-
-![cat-violin-plot-9-seaborn](figures/cat-violin-plot-9-seaborn.png)
+### Bar Plots
 
 ![cat-bar-plot-1-seaborn](figures/cat-bar-plot-1-seaborn.png)
 
@@ -138,11 +107,11 @@ Part 3: Plotting and Visualizations
 
 ![cat-bar-plot-7-seaborn](figures/cat-bar-plot-7-seaborn.png)
 
-![cat-point-plot-1-seaborn](figures/cat-point-plot-1-seaborn.png)
+### Scatter Plots
 
-![cat-point-plot-2-seaborn](figures/cat-point-plot-2-seaborn.png)
+![cat-scatter-plot-1-seaborn](figures/cat-scatter-plot-1-seaborn.png)
 
-![cat-point-plot-3-seaborn](figures/cat-point-plot-3-seaborn.png)
+![cat-scatter-plot-2-seaborn](figures/cat-scatter-plot-2-seaborn.png)
 
 ![scatter-plot-5-seaborn](figures/scatter-plot-5-seaborn.png)
 
@@ -159,4 +128,66 @@ Part 3: Plotting and Visualizations
 ![scatter-plot-11-seaborn](figures/scatter-plot-11-seaborn.png)
 
 ![scatter-plot-12-seaborn](figures/scatter-plot-12-seaborn.png)
+
+### Histograms
+
+![hist-plot-1-seaborn](figures/hist-plot-1-seaborn.png)
+
+![hist-plot-2-seaborn](figures/hist-plot-2-seaborn.png)
+
+### Kernel Density Estimate (KDE) Plot
+
+![kde-plot-1-seaborn](figures/kde-plot-1-seaborn.png)
+
+![kde-plot-2-seaborn](figures/kde-plot-2-seaborn.png)
+
+![kde-plot-3-seaborn](figures/kde-plot-3-seaborn.png)
+
+![kde-plot-4-seaborn](figures/kde-plot-4-seaborn.png)
+
+![param-dist-plot-1-seaborn](figures/param-dist-plot-1-seaborn.png)
+
+### Swarm Plots
+
+![cat-swarm-plot-1-seaborn](figures/cat-swarm-plot-1-seaborn.png)
+
+![cat-swarm-plot-2-seaborn](figures/cat-swarm-plot-2-seaborn.png)
+
+### Box Plots
+
+![cat-box-plot-1-seaborn](figures/cat-box-plot-1-seaborn.png)
+
+![cat-box-plot-2-seaborn](figures/cat-box-plot-2-seaborn.png)
+
+![cat-boxen-plot-1-seaborn](figures/cat-boxen-plot-1-seaborn.png)
+
+### Violin Plots
+
+![cat-violin-plot-1-seaborn](figures/cat-violin-plot-1-seaborn.png)
+
+![cat-violin-plot-3-seaborn](figures/cat-violin-plot-3-seaborn.png)
+
+![cat-violin-plot-4-seaborn](figures/cat-violin-plot-4-seaborn.png)
+
+![cat-violin-plot-5-seaborn](figures/cat-violin-plot-5-seaborn.png)
+
+![cat-violin-plot-6-seaborn](figures/cat-violin-plot-6-seaborn.png)
+
+![cat-violin-plot-7-seaborn](figures/cat-violin-plot-7-seaborn.png)
+
+![cat-violin-plot-9-seaborn](figures/cat-violin-plot-9-seaborn.png)
+
+### Point Plots
+
+![cat-point-plot-1-seaborn](figures/cat-point-plot-1-seaborn.png)
+
+![cat-point-plot-2-seaborn](figures/cat-point-plot-2-seaborn.png)
+
+![cat-point-plot-3-seaborn](figures/cat-point-plot-3-seaborn.png)
+
+### Showing Multiple Relationships with Facets
+
+![cat-facets-plot-1-seaborn](figures/cat-facets-plot-1-seaborn.png)
+
+![cat-facets-plot-2-seaborn](figures/cat-facets-plot-2-seaborn.png)
 
