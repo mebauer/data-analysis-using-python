@@ -5,9 +5,15 @@ Part 3: Plotting and Visualizations
 *Mark Bauer*
 
 
-# Figures
+Table of Contents
+=================
 
-# Pandas & Matplotlib Libraries
+   * [1. Pandas & Matplotlib Libraries](#1-Pandas-&-Matplotlib-Libraries)
+   * [2. 2. Seaborn Library](#2.-Seaborn-Library)
+   
+
+
+# 1. Pandas & Matplotlib Libraries
 
 ## Line Plot
 
@@ -69,7 +75,7 @@ Part 3: Plotting and Visualizations
 
 ![hexbin-plot-3](figures/hexbin-plot-3.png)
 
-# Seaborn Library
+# 2. Seaborn Library
 
 ## Pair Plot
 
@@ -79,15 +85,15 @@ Part 3: Plotting and Visualizations
 
 ## Joint Plots
 
-![hexbin-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
+![joint-plot-1-seaborn](figures/joint-plot-1-seaborn.png)
 
 ![hexbin-plot-1-seaborn](figures/hexbin-plot-1-seaborn.png)
 
-![joint-plot-2-seaborn](figures/hexbin-plot-2-seaborn.png)
+![hexbin-plot-2-seaborn](figures/hexbin-plot-2-seaborn.png)
 
-![joint-plot-3-seaborn](figures/hexbin-plot-3-seaborn.png)
+![hexbin-plot-3-seaborn](figures/hexbin-plot-3-seaborn.png)
 
-![joint-plot-4-seaborn](figures/hexbin-plot-4-seaborn.png)
+![hexbin-plot-4-seaborn](figures/hexbin-plot-4-seaborn.png)
 
 ## Categorial Plots
 
