@@ -8,7 +8,7 @@ Part 3: Plotting and Visualizations
 Table of Contents
 =================
 
-   * [1. Pandas & Matplotlib Libraries](#1-Pandas-%20-Matplotlib-Libraries)
+   * [1. Pandas & Matplotlib Libraries](#1-Pandas-%26-Matplotlib-Libraries)
        * [Line Plot](#Line-Plot)
        * [Area Plot](#Area-Plot)
        * [Bar Plot](#Bar-Plot)
