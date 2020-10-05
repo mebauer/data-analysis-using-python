@@ -22,3 +22,5 @@ Table of Contents
 - Part 2: [Data Inspection, Cleaning, and Wrangling in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/2-data-inspection-cleaning-wrangling).
 
 - Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/3-plotting-data-visualizations).
+
+- Part 4: [Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-mapping).
