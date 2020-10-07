@@ -7,14 +7,14 @@ Part 1 demonstrates various ways to read (load) and write (save) data using the 
 
 Sections are as follows:
 
-- [Getting Started](#-Getting-Started:-Accessing-the-Building-Footprints-Dataset)
+- [Getting Started: Accessing the Building Footprints Dataset](#-Getting-Started:-Accessing-the-Building-Footprints-Dataset)
     * [1. Search NYC Open Data in Google](##1.-Search-NYC-Open-Data-in-Google)
     * [2. Search "Building Footprints" in NYC Open Data search bar](##-2.-Search-"Building-Footprints"-in-NYC-Open-Data-search-bar)
     * [3. Select "Building Footprints" Dataset](##3.-Select-"Building-Footprints"-Dataset)
     * [4. The Building Footprints Dataset Page](##4.-The-Building-Footprints-Dataset-Page)
        
        
-- [1. Reading In Data](##-1.-Reading-In-Data)
+- [1. Reading In Data](#-1.-Reading-In-Data)
     * [1.1 Reading in data as csv in static form](##-1.1-Reading-in-data-as-csv-in-static-form)
     * [1.2 Reading in data as json in static form](##-1.2-Reading-in-data-as-json-in-static-form)
     * [1.3 Reading in shapefile data](##-1.3-Reading-in-shapefile-data)
