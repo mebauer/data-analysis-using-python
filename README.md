@@ -12,7 +12,7 @@ Table of Contents
 
 # 1. Introduction
 
-*Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data* is a four-part series as listed in the sections below. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). The series concludes with a sample data analysis project that exemplifies how data inspection, transformation and modelling can be used for discovering useful information and supporting decision-making.
+*Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data* is a four-part series as listed in the sections below. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). The series will conclude with a sample data analysis project that exemplifies how data inspection, transformation and modelling can be used for discovering useful information and supporting decision-making.
 
  
 # 2. Sections 
