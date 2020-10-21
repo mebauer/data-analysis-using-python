@@ -3,7 +3,7 @@
 Part 2: Data Inspection, Cleaning and Wrangling in Python
 
 **Introduction**  
-Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2-data-cleaning-wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-cleaning-wrangling/2-data-cleaning-wrangling.ipynb).
+Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2-data-inspection-cleaning-wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2-data-inspection-cleaning-wrangling.ipynb).
 
 Key sections as follows:
 
