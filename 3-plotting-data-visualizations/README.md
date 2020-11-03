@@ -17,8 +17,8 @@ Table of Contents
        
        
    * [3. Seaborn Library](#3-Seaborn-Library)
-       * [3.1 Distribution Plots](##31-Distribution-Plots)
-           * [3.1.1 Histograms](###311-Histograms)
+       * [3.1 Distribution Plots](##3-1-Distribution-Plots)
+           * [3.1.1 Histograms](###3-1-1-Histograms)
            * [3.1.2 Kernel Density Estimate (KDE) Plot](###312-Kernel-Density-Estimate-%28KDE%29-Plot)
            * [3.1.3 Empirical Cumulative Distribution Functions (ECDF)](###313-Empirical-Cumulative-Distribution-Functions-%28ECDF%29)
            * [3.1.4 Distribution Plots onto a FacetGrid](###314-Distribution-Plots-onto-a-FacetGrid)
