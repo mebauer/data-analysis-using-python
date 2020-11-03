@@ -8,56 +8,55 @@ Part 3: Plotting and Visualizations
 Table of Contents
 =================
 
-   * [1. Importing Libraries](##-1.-Importing-Libraries)
+   * [1. Importing Libraries](##-1-Importing-Libraries)
        
        
-   * [2. Merging Datasets](#-2.-Merging-Datasets)
-       * [2.1 Building Footprints Dataset](##-2.1-Building-Footprints-Dataset)
-       * [2.2 Pluto Dataset](##-2.2-Pluto-Dataset)
+   * [2. Merging Datasets](#-2-Merging-Datasets)
+       * [2.1 Building Footprints Dataset](##-21-Building-Footprints-Dataset)
+       * [2.2 Pluto Dataset](##-22-Pluto-Dataset)
        
        
    * [3. Seaborn Library](#3-Seaborn-Library)
-       * [3.1 Distribution Plots](##-3.1-Plotting-Univariate-Distributions)
-           * [3.1.1 Histograms](###-3.1.2-Histograms)
-           * [3.1.2 Kernel Density Estimate (KDE) Plot](###-3.1.3-Kernel-Density-Estimate-%28KDE%29-Plot)
-           * [3.1.3 Empirical Cumulative Distribution Functions (ECDF)](###-3.1.4-Empirical-Cumulative-Distribution-Functions-%28ECDF%29)
-           * [3.1.4 Distribution Plots onto a FacetGrid](###-4.3.4-Distribution-Plots-onto-a-FacetGrid)
-       * [3.2 Relational Plots](###-3.2-Relational-Plots)
-           * [3.2.1 Line Plots](###-3.2.1-Line-Plots)
-           * [3.2.2 Scatter Plot](###-3.2.2-Scatter-Plot)
-           * [3.2.3 Hexagonal Bin Plots](###-3.2.3-Hexagonal-Bin-Plots)  
-           * [3.2.4 Relational Plots onto a FacetGrid](###-3.2.4-Relational-Plots-onto-a-FacetGrid)
-       * [3.3 Joint Grids](##-4.3-Joint-Grids) 
-           * [3.3.1 Scatter Plot](###-3.3.1-Scatter-Plot)
-           * [3.3.2 Hexagonal Bin Plots](###-3.3.2-Hexagonal-Bin-Plots)  
-           * [3.3.3 Kernel Density Estimate (KDE) Plot](###-3.3.4-Kernel-Density-Estimate-%28KDE%29-Plot)
-       * [3.4 Visualizing Pairwise Relationships in a Dataset](##-3.4-Visualizing-Pairwise-Relationships-in-a-Dataset)
-       * [3.5 Heat Map](##-3.5-Heat-Map)
-       * [3.6 Categorial Plots](##-3.6-Categorial-Plots)
-           * [3.6.1 Count Plots](###3.6.1-Count-Plots)
-           * [3.6.2 Bar Plots](###-3.6.2-Bar-Plots)
-           * [3.6.3 Scatter Plots](###3.6.3-Scatter-Plots)
-           * [3.6.4 Swarm Plots](###-3.6.4-Swarm-Plots)
-           * [3.6.5 Box Plots](###-3.6.5-Box-Plots)
-           * [3.6.6 Boxen Plots](###-3.6.6-Boxen-Plots)
-           * [3.6.7 Violin Plots](###-3.6.7-Violin-Plots)
-           * [3.6.8 Point Plots](###-3.6.8-Point-Plots)
-           * [3.6.9 Facets](###3.6.9-Facets)  
+       * [3.1 Distribution Plots](##-31-Plotting-Univariate-Distributions)
+           * [3.1.1 Histograms](###-312-Histograms)
+           * [3.1.2 Kernel Density Estimate (KDE) Plot](###-31.-Kernel-Density-Estimate-%28KDE%29-Plot)
+           * [3.1.3 Empirical Cumulative Distribution Functions (ECDF)](###-314-Empirical-Cumulative-Distribution-Functions-%28ECDF%29)
+           * [3.1.4 Distribution Plots onto a FacetGrid](###-434-Distribution-Plots-onto-a-FacetGrid)
+       * [3.2 Relational Plots](###-32-Relational-Plots)
+           * [3.2.1 Line Plots](###-321-Line-Plots)
+           * [3.2.2 Scatter Plot](###-322-Scatter-Plot)  
+           * [3.2.3 Relational Plots onto a FacetGrid](###-323-Relational-Plots-onto-a-FacetGrid)
+       * [3.3 Joint Grids](##-43-Joint-Grids) 
+           * [3.3.1 Scatter Plot](###-331-Scatter-Plot)
+           * [3.3.2 Hexagonal Bin Plots](###-332-Hexagonal-Bin-Plots)  
+           * [3.3.3 Kernel Density Estimate (KDE) Plot](###-334-Kernel-Density-Estimate-%28KDE%29-Plot)
+       * [3.4 Visualizing Pairwise Relationships in a Dataset](##-34-Visualizing-Pairwise-Relationships-in-a-Dataset)
+       * [3.5 Heat Map](##-35-Heat-Map)
+       * [3.6 Categorial Plots](##-36-Categorial-Plots)
+           * [3.6.1 Count Plots](###361-Count-Plots)
+           * [3.6.2 Bar Plots](###-362-Bar-Plots)
+           * [3.6.3 Scatter Plots](###363-Scatter-Plots)
+           * [3.6.4 Swarm Plots](###-364-Swarm-Plots)
+           * [3.6.5 Box Plots](###-365-Box-Plots)
+           * [3.6.6 Boxen Plots](###-366-Boxen-Plots)
+           * [3.6.7 Violin Plots](###-367-Violin-Plots)
+           * [3.6.8 Point Plots](###-368-Point-Plots)
+           * [3.6.9 Facets](###369-Facets)  
    
    
    * [4. pandas and Matplotlib Libraries](#4-Pandas-and-Matplotlib-Libraries)
-       * [4.1 Line Plot](##-4.1-Line-Plot)
-       * [4.2 Bar Plot](##-4.2-Bar-Plot)
-       * [4.3 Histogram](##-4.3-Histogram)
-       * [4.4 Box Plot](##-4.4-Box-Plot)
-       * [4.5 Kernel Density Estimate (KDE) Plot](##-4.5-Kernel-Density-Estimate-%28KDE%29-Plot)
-       * [4.6 Area Plot](##-4.6-Area-Plot)
-       * [4.7 Scatter Plot](##-4.7-Scatter-Plot)
-       * [4.8 Hexagonal Bin Plot](##-4.8-Hexagonal-Bin-Plot)
-       * [4.9 Pie Plot](##-4.9-Pie-Plot)
+       * [4.1 Line Plot](##-41-Line-Plot)
+       * [4.2 Bar Plot](##-42-Bar-Plot)
+       * [4.3 Histogram](##-43-Histogram)
+       * [4.4 Box Plot](##-44-Box-Plot)
+       * [4.5 Kernel Density Estimate (KDE) Plot](##-45-Kernel-Density-Estimate-%28KDE%29-Plot)
+       * [4.6 Area Plot](##-46-Area-Plot)
+       * [4.7 Scatter Plot](##-47-Scatter-Plot)
+       * [4.8 Hexagonal Bin Plot](##-48-Hexagonal-Bin-Plot)
+       * [4.9 Pie Plot](##-49-Pie-Plot)
        
        
-   * [5. Conclusion](#-4.-Conclusion)
+   * [5. Conclusion](#-4-Conclusion)
 
 
 # 3. Seaborn Library
@@ -188,17 +187,9 @@ Table of Contents
 
 ![bar-plot-4](figures/3-2-2-l.png)
 
-### 3.2.3 Hexagonal Bin Plots
+### 3.2.3 Relational Plots onto a FacetGrid
 
-![bar-plot-3](figures/bar-plot-3.png)
-
-![bar-plot-4](figures/bar-plot-4.png)
-
-![bar-plot-4](figures/bar-plot-4.png)
-
-### 3.2.4 Relational Plots onto a FacetGrid
-
-![bar-plot-3](figures/b3-2-3-a.png)
+![bar-plot-3](figures/3-2-3-a.png)
 
 ![bar-plot-4](figures/3-2-3-b.png)
 
@@ -235,7 +226,7 @@ Table of Contents
 
 ![bar-plot-3](figures/3-5-a.png)
 
-![bar-plot-4](figures/3-5-c.png)
+![bar-plot-4](figures/3-5-b.png)
 
 ## 3.6 Categorial Plots
 
