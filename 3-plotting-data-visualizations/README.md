@@ -8,14 +8,6 @@ Part 3: Plotting and Visualizations
 Table of Contents
 =================
 
-   * [1. Importing Libraries](##1-Importing-Libraries)
-       
-       
-   * [2. Merging Datasets](#2-Merging-Datasets)
-       * [2.1 Building Footprints Dataset](##-21-Building-Footprints-Dataset)
-       * [2.2 Pluto Dataset](##-22-Pluto-Dataset)
-       
-       
    * [3. Seaborn Library](#3-Seaborn-Library)
        * [3.1 Distribution Plots](#31-Distribution-Plots)
            * [3.1.1 Histograms](#311-Histograms)
