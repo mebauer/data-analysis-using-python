@@ -284,8 +284,6 @@ Table of Contents
 
 ![3-6-5-b](figures/3-6-5-b.png)
 
-![3-6-5-c](figures/3-6-5-c.png)
-
 ### 3.6.6 Boxen Plots
 
 ![3-6-6-a](figures/3-6-6-a.png)
