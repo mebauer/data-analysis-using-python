@@ -23,4 +23,4 @@ Table of Contents
 
 - Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/3-plotting-data-visualizations).
 
-- Part 4: [Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-mapping).
+- Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
