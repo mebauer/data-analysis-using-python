@@ -5,114 +5,114 @@ Map Gallery
 =================
 
        
-   * [5. Making Maps](#5-Making-Maps)
-       * [5.1 Points](#51-Points)
-       * [5.2 Lines](#52-Lines)
-       * [5.3 Polygons](#53-Polygon)
-       * [5.4 Maps with Layers](#54-Maps-with-Layers)
-       * [5.5 Adding Background Map](#55-Adding-Background-Map)
-       * [5.6 Clip Data](#56-Clip-Data)
+* [Making Maps](#Making-Maps)
+    * [1. Points](#1-Points)
+    * [2. Lines](#2-Lines)
+    * [3. Polygons](#3-Polygon)
+    * [4. Maps with Layers](#4-Maps-with-Layers)
+    * [5. Adding Background Map](#5-Adding-Background-Map)
+    * [6. Clip Data](#6-Clip-Data)
              
-   * [6. Types of Maps](#6-Types-of-Maps)
-       * [6.1 Choropleth Maps](#6-Choropleth-Maps)
-       * [6.2 Heat Maps](#62-Heat-Maps)
-       * [6.3 Hexbin Map](#63-Hexbin-Map)
-       * [6.4 Proportional Symbol Map](#64-Proportional-Symbol-Map)
-       * [6.5 Graduated Symbol Map](#65-Graduated-Symbol-Map)
-       * [6.6 One-to-One Dot Density Map](#66-One-to-One-Dot-Density-Map)
-       * [6.7 One-to-One Dot Density Map with Joint Grids](#67-One-to-One-Dot-Density-Map-with-Joint-Grids)
-       * [6.8 Cartogram Map](#68-Cartogram-Map)
-       * [6.9 Voroni Map](#69-Voroni-Map)
-       * [6.10 Quadtree Map](#610-Quadtree-Map)
-       * [6.11 Aesthetics for Maps](#611-Aesthetics-for-Maps)        
+* [Types of Maps](#Types-of-Maps)
+    * [1. Choropleth Maps](#1-Choropleth-Maps)
+    * [2. Heat Maps](#2-Heat-Maps)
+    * [3. Hexbin Map](#3-Hexbin-Map)
+    * [4. Proportional Symbol Map](#4-Proportional-Symbol-Map)
+    * [5. Graduated Symbol Map](#5-Graduated-Symbol-Map)
+    * [6. One-to-One Dot Density Map](#6-One-to-One-Dot-Density-Map)
+    * [7. One-to-One Dot Density Map with Joint Grids](#7-One-to-One-Dot-Density-Map-with-Joint-Grids)
+    * [8. Cartogram Map](#8-Cartogram-Map)
+    * [9. Voroni Map](#9-Voroni-Map)
+    * [10. Quadtree Map](#10-Quadtree-Map)
+    * [11. Aesthetics for Maps](#11-Aesthetics-for-Maps)        
        
-   * [10. Set Operations with Overlay](#10-Set-Operations-with-Overlay)
+* [Set Operations with Overlay](#Set-Operations-with-Overlay)
 
-   * [12. Additional Attributes and Methods](#12-Additional-Attributes-and-Methods)
-       * [12.2 Binary Predicates](#122-Binary-Predicates)
-       * [12.4 Constructive Methods](#124-Constructive-Methods)    
-       * [12.5 Affine Transformations](#125-Affine-Transformations)       
+* [Additional Attributes and Methods](#Additional-Attributes-and-Methods)
+    * [1. Binary Predicates](#1-Binary-Predicates)
+    * [2. Constructive Methods](#2-Constructive-Methods)    
+    * [3. Affine Transformations](#3-Affine-Transformations)       
        
-   * [13. Conclusion](#13-Conclusion)
+* [Conclusion](#13-Conclusion)
    
    
    
-# 5. Making Maps
+# Making Maps
 
-## 5.1 Points
+## 1. Points
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 5.2 Lines
+## 2. Lines
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 5.3 Polygons
+## 3. Polygons
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 5.4 Maps with Layers
+## 4. Maps with Layers
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 5.5 Adding Background Map
+## 5. Adding Background Map
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 5.6 Clip Data
+## 6. Clip Data
 ![3-1-1-a](figures/3-1-1-a.png)
 
-# 6. Types of Maps
+# Types of Maps
 
-## 6.1 Choropleth Maps
+## 1. Choropleth Maps
 
-## 6.2 Heat Maps
+## 2. Heat Maps
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 6.3 Hexbin Map
+## 3. Hexbin Map
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 6.4 Proportional Symbol Map
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-
-## 6.5 Graduated Symbol Map
+## 4. Proportional Symbol Map
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 6.6 One-to-One Dot Density Map
-![3-1-1-a](figures/3-1-1-a.png)
-
-## 6.7 One-to-One Dot Density Map with Joint Grid
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
+## 5. Graduated Symbol Map
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 6.8 Cartogram Map
+## 6. One-to-One Dot Density Map
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 6.9 Voroni Map
+## 7. One-to-One Dot Density Map with Joint Grids
 ![3-1-1-a](figures/3-1-1-a.png)
-
-## 6.10 Quadtree Map
-![3-1-1-a](figures/3-1-1-a.png)
-
-## 6.11 Aesthetics for Maps
-![3-1-1-a](figures/3-1-1-a.png)
-
-# 10. Set Operations with Overlay
-![3-1-1-a](figures/3-1-1-a.png)
-
-# 12. Additional Attributes and Methods
-
-## 12.2 Binary Predicates
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-
-## 12.4 Constructive Methods
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
 
-## 12.5 Affine Transformations
+## 8. Cartogram Map
+![3-1-1-a](figures/3-1-1-a.png)
+
+## 9. Voroni Map
+![3-1-1-a](figures/3-1-1-a.png)
+
+## 10. Quadtree Map
+![3-1-1-a](figures/3-1-1-a.png)
+
+## 11. Aesthetics for Maps
+![3-1-1-a](figures/3-1-1-a.png)
+
+# Set Operations with Overlay
+![3-1-1-a](figures/3-1-1-a.png)
+
+# Additional Attributes and Methods
+
+## 1. Binary Predicates
+![3-1-1-a](figures/3-1-1-a.png)
+![3-1-1-a](figures/3-1-1-a.png)
+
+## 2. Constructive Methods
+![3-1-1-a](figures/3-1-1-a.png)
+![3-1-1-a](figures/3-1-1-a.png)
+![3-1-1-a](figures/3-1-1-a.png)
+![3-1-1-a](figures/3-1-1-a.png)
+
+## 3. Affine Transformations
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
 ![3-1-1-a](figures/3-1-1-a.png)
