@@ -24,7 +24,9 @@ Map Gallery
     * [8. Cartogram Map](#8-Cartogram-Map)
     * [9. Voroni Map](#9-Voroni-Map)
     * [10. Quadtree Map](#10-Quadtree-Map)
-    * [11. Aesthetics for Maps](#11-Aesthetics-for-Maps)        
+    * [11. Aesthetics for Maps](#11-Aesthetics-for-Maps)  
+    
+* [Centroids vs. Representative Points](#Centroids-vs-Representative-Points)
        
 * [Set Operations with Overlay](#Set-Operations-with-Overlay)
 
@@ -108,6 +110,9 @@ Map Gallery
 
 ## 11. Aesthetics for Maps
 ![6-11-a](figures/6-11-a.png)
+
+# Centroids vs. Representative Points
+![12-2-b](figures/12-2-b.png)
 
 # Set Operations with Overlay
 ![10-a](figures/10-a.png)
