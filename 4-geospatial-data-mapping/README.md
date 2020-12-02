@@ -35,10 +35,8 @@ Map Gallery
     * [2. Constructive Methods](#2-Constructive-Methods)    
     * [3. Affine Transformations](#3-Affine-Transformations)       
        
-* [Conclusion](#13-Conclusion)
    
-   
-   
+
 # Making Maps
 
 ## 1. Points
