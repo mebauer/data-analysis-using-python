@@ -40,86 +40,97 @@ Map Gallery
 # Making Maps
 
 ## 1. Points
-![3-1-1-a](figures/3-1-1-a.png)
+![5-1-a](figures/5-1-a.png)
 
 ## 2. Lines
-![3-1-1-a](figures/3-1-1-a.png)
+![5-2-a](figures/5-2-a.png)
 
 ## 3. Polygons
-![3-1-1-a](figures/3-1-1-a.png)
+![5-3-a](figures/5-3-a.png)
 
 ## 4. Maps with Layers
-![3-1-1-a](figures/3-1-1-a.png)
+![5-4-a](figures/5-4-a.png)
 
 ## 5. Adding Background Map
-![3-1-1-a](figures/3-1-1-a.png)
+![5-5-a](figures/5-5-a.png)
 
 ## 6. Clip Data
-![3-1-1-a](figures/3-1-1-a.png)
+![5-6-a](figures/5-6-a.png)
 
 # Types of Maps
 
 ## 1. Choropleth Maps
+![6-1-a](figures/6-1-a.png)
+![6-1-b](figures/6-1-b.png)
+![6-1-c](figures/6-1-c.png)
+![6-1-d](figures/6-1-d.png)
+![6-1-e](figures/6-1-e.png)
+![6-1-f](figures/6-1-f.png)
+![6-1-g](figures/6-1-g.png)
 
 ## 2. Heat Maps
-![3-1-1-a](figures/3-1-1-a.png)
+![6-2-a](figures/6-2-a.png)
 
 ## 3. Hexbin Map
-![3-1-1-a](figures/3-1-1-a.png)
+![6-3-a](figures/6-3-a.png)
 
 ## 4. Proportional Symbol Map
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
+![6-4-a](figures/6-4-a.png)
+![6-4-b](figures/6-4-b.png)
+![6-4-c](figures/6-4-c.png)
+![6-4-d](figures/6-4-d.png)
 
 ## 5. Graduated Symbol Map
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
+![6-5-a](figures/6-5-a.png)
+![6-5-b](figures/6-5-b.png)
 
 ## 6. One-to-One Dot Density Map
-![3-1-1-a](figures/3-1-1-a.png)
+![6-6-a](figures/6-6-a.png)
+![6-6-b](figures/6-6-b.png)
 
 ## 7. One-to-One Dot Density Map with Joint Grids
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
+![6-7-a](figures/6-7-a.png)
+![6-7-b](figures/6-7-b.png)
+![6-7-c](figures/6-7-c.png)
+![6-7-d](figures/6-7-d.png)
+![6-7-e](figures/6-7-e.png)
+![6-7-f](figures/6-7-f.png)
+![6-7-g](figures/6-7-g.png)
 
 ## 8. Cartogram Map
-![3-1-1-a](figures/3-1-1-a.png)
+![6-8-a](figures/6-8-a.png)
 
 ## 9. Voroni Map
-![3-1-1-a](figures/3-1-1-a.png)
+![6-9-a](figures/6-9-a.png)
 
 ## 10. Quadtree Map
-![3-1-1-a](figures/3-1-1-a.png)
+![6-10-a](figures/6-10-a.png)
 
 ## 11. Aesthetics for Maps
-![3-1-1-a](figures/3-1-1-a.png)
+![6-11-a](figures/6-11-a.png)
 
 # Set Operations with Overlay
-![3-1-1-a](figures/3-1-1-a.png)
+![10-a](figures/10-a.png)
 
 # Additional Attributes and Methods
 
 ## 1. Binary Predicates
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
+![12-2-a](figures/12-2-a.png)
 
 ## 2. Constructive Methods
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
+![12-4-a](figures/12-4-a.png)
+![12-4-b](figures/12-4-b.png)
+![12-4-c](figures/12-4-c.png)
+![12-4-d](figures/12-4-d.png)
 
 ## 3. Affine Transformations
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-![3-1-1-a](figures/3-1-1-a.png)
-
-
-# 13. Conclusion
-In this notebook, we reviewed various types of plots and visualizations using the Python libraries seaborn and pandas, both built on top of the library matplotlib. In Part IV, we will demonstrate how to work with geospatial data and create various types of maps with the Python library geopandas.
+![12-5-a](figures/12-5-a.png)
+![12-5-b](figures/12-5-b.png)
+![12-5-c](figures/12-5-c.png)
+![12-5-d](figures/12-5-d.png)
+![12-5-e](figures/12-5-e.png)
+![12-5-f](figures/12-5-f.png)
+![12-5-g](figures/12-5-g.png)
+![12-5-h](figures/12-5-h.png)
 
    
