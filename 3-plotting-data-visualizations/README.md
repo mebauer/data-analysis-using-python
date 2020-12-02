@@ -1,11 +1,12 @@
-**Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data**
+# Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data
 
-Part 3: Plotting and Visualizations
+## Part 3: Plotting and Visualizations  
+**Mark Bauer**
 
-*Mark Bauer*
+**Introduction**
+Part 3 demonstrates various examples of plotting and data visualizations. The project is located in my notebook [3-plotting-visualizations.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3-plotting-visualizations.ipynb). Below, you will find the data visualization gallery.
 
-
-Table of Contents
+Data Visualization Gallery
 =================
 
    * [3. Seaborn Library](#3-Seaborn-Library)
@@ -46,9 +47,6 @@ Table of Contents
        * [4.7 Scatter Plot](#47-Scatter-Plot)
        * [4.8 Hexagonal Bin Plot](#48-Hexagonal-Bin-Plot)
        * [4.9 Pie Plot](#49-Pie-Plot)
-       
-       
-   * [5. Conclusion](#5-Conclusion)
 
 
 # 3. Seaborn Library
@@ -405,6 +403,3 @@ Table of Contents
 ![4-9-a](figures/4-9-a.png)
 
 ![4-9-b](figures/4-9-b.png)
-
-# 5. Conclusion
-In this notebook, we reviewed various types of plots and visualizations using the Python libraries seaborn and pandas, both built on top of the library matplotlib. In Part IV, we will demonstrate how to work with geospatial data and create various types of maps with the Python library geopandas.
