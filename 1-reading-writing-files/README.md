@@ -1,6 +1,6 @@
-**Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data**
+# Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data  
 
-Part 1: Reading and Writing Files in Python
+## Part 1: Reading and Writing Files in Python
 
 **Introduction**  
 Part 1 demonstrates various ways to read (load) and write (save) data using the Python programming language. The datasets contain common file formats such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information) and zip files.

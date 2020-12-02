@@ -1,9 +1,13 @@
+# Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data¶  
 
+## Part 4: Working with geospatial data and mapping
+
+**Introduction**
+Part 4 demonstrates various workflows of working with geospatial data and mapping. The project is located in my notebook [4-geospatial-data-mapping.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4-geospatial-data-mapping.ipynb). Below, you will find the map gallery.
 
 
 Map Gallery
 =================
-
        
 * [Making Maps](#Making-Maps)
     * [1. Points](#1-Points)
@@ -33,8 +37,7 @@ Map Gallery
 * [Additional Attributes and Methods](#Additional-Attributes-and-Methods)
     * [1. Binary Predicates](#1-Binary-Predicates)
     * [2. Constructive Methods](#2-Constructive-Methods)    
-    * [3. Affine Transformations](#3-Affine-Transformations)       
-       
+    * [3. Affine Transformations](#3-Affine-Transformations)           
    
 
 # Making Maps
