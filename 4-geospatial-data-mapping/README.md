@@ -3,7 +3,7 @@
 ## Part 4: Working with geospatial data and mapping  
 **Mark Bauer**
 
-**Introduction**
+**Introduction**  
 Part 4 demonstrates various workflows of working with geospatial data and mapping. The project is located in my notebook [4-geospatial-data-mapping.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4-geospatial-data-mapping.ipynb). Below, you will find the map gallery.
 
 
