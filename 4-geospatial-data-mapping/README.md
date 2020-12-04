@@ -1,4 +1,4 @@
-# Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data¶  
+# Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data 
 
 ## Part 4: Working with geospatial data and mapping  
 **Mark Bauer**
@@ -70,7 +70,6 @@ Map Gallery
 ![6-1-d](figures/6-1-d.png)
 ![6-1-e](figures/6-1-e.png)
 ![6-1-f](figures/6-1-f.png)
-![6-1-g](figures/6-1-g.png)
 
 ## 2. Heat Maps
 ![6-2-a](figures/6-2-a.png)
