@@ -4,7 +4,7 @@ Hi, I'm Mark. I'm the author of this project. Thank you for your interest in ope
 
 ## Submitting Changes
 
-Please send a [GitHub Pull Request to data-analysis-using-python](https://github.com/mebauer/data-analysis-using-python/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
+Please send a [GitHub Pull Request to data-analysis-using-python](https://github.com/mebauer/data-analysis-using-python/pull/new/master) with a clear list of what you've done (read more about [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests). Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 
@@ -15,9 +15,9 @@ Always write a clear log message for your commits. One-line messages are fine fo
 
 ## Coding Conventions
 
-Start reading our code and you'll get the hang of it. We optimize for readability:
+Start reading our code, and you'll get the hang of it. We optimize for readability:
 
-  * This is open source project. Consider the people who will read your code, and make it look nice for them.
+  * This is an open source project. Consider the people who will read your code, and make it look nice for them.
   
-Thank you,
+Thank you,  
 Mark
