@@ -25,16 +25,16 @@ Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/d
 
 Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
 
-# Notebooks
+# 3. Notebooks
 
 | File Name | Description | Static Webpage |
 | :-------- | :---------- | :------------- |
-| [1_reading_writing_files.ipynb](analysis-nyc-311-street-flooding.ipynb) | Reading and Writing Files. | [Static](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) |
-| [2_data_inspection_cleaning_wrangling.ipynb](analysis-assign-complaints-to-streets.ipynb) | Data Inspection, Cleaning, and Wrangling. | [Static](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb)) |
-| [3_plotting_visualizations.ipyn](/data-wrangling/data-wrangling-311-data.ipynb) | Plotting and Data Visualization. | [Static](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb) |
-| [4_geospatial_data_mapping.ipynb](/data-wrangling/data-wrangling-streets-data.ipynb) | Geospatial Data and Mapping. | [Static](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb) |
+| [1_reading_writing_files.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) | Reading and Writing Files. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) |
+| [2_data_inspection_cleaning_wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb) | Data Inspection, Cleaning, and Wrangling. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb) |
+| [3_plotting_visualizations.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb) | Plotting and Data Visualization. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb) |
+| [4_geospatial_data_mapping.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb) | Geospatial Data and Mapping. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb) |
 
-# Data 
+# 4. Data 
 
 | Dataset | Description |
 | :-------- | :---------- |
@@ -45,7 +45,7 @@ Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-u
 | [Neighborhood Tabulation Areas (NTA)](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq) | Boundaries of Neighborhood Tabulation Areas as created by the NYC Department of City Planning using whole census tracts from the 2010 Census as building blocks. These aggregations of census tracts are subsets of New York City's 55 Public Use Microdata Areas (PUMAs). |
 | [Boroughs](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) | GIS data: Boundaries of Boroughs (water areas excluded). |
 
-# Resources
+# 5. Resources
 
 - [NYC Open Data](https://opendata.cityofnewyork.us/)
 
