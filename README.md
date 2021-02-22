@@ -24,3 +24,16 @@ Table of Contents
 - Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/3-plotting-data-visualizations).
 
 - Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
+
+# 3. Rendering Notebooks
+
+You can render these notebooka as static web pages below using nbconvert as a web service:
+
+https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb
+
+https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb
+
+https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb
+
+https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb
+
