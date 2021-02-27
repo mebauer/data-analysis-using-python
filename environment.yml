@@ -10,3 +10,5 @@ dependencies:
   - geopandas
   - shapely
   - matplotlib
+  - watermark
+  - descartes
