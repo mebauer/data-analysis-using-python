@@ -24,7 +24,7 @@ Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/d
 
 Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
 
-You can run [interactive examples](https://github.com/mebauer/data-analysis-using-python/blob/master/mybinder-examples/examples.ipynb) on MyBinder through your browser - no installation required: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=https%3A%2F%2Fgithub.com%2Fmebauer%2Fdata-analysis-using-python%2Fblob%2Fmaster%2Fmybinder-examples%2Fexamples.ipynb).
+You can run interactive examples on MyBinder through your browser - no installation required: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb).
 
 
 # 2. Notebooks
