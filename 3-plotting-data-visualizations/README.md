@@ -1,9 +1,9 @@
 # Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data
 ## Part 3: Plotting and Visualizations  
-**Mark Bauer**
+Mark Bauer
 
 **Introduction**  
-Part 3 demonstrates various examples of plotting and data visualizations. The project is located in my notebook [3-plotting-visualizations.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3-plotting-visualizations.ipynb). Below, you will find the data visualization gallery.
+Part 3 demonstrates various examples of plotting and data visualizations. The project is located in my notebook [3_plotting_visualizations.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb). Below, you will find the data visualization gallery.
 
 Data Visualization Gallery
 =================

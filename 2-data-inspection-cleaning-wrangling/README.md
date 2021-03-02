@@ -1,10 +1,10 @@
 # Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data  
 
 ## Part 2: Data Inspection, Cleaning and Wrangling in Python  
-**Mark Bauer**
+Mark Bauer
 
 **Introduction**  
-Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2-data-inspection-cleaning-wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2-data-inspection-cleaning-wrangling.ipynb).
+Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2_data_inspection_cleaning_wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb).
 
 Key sections as follows:
 
@@ -30,8 +30,4 @@ Detecting Outliers
 * Z-Scores  
   * Calculating Z-Scores
   * Identifying Possible Outliers from Z-Score
-  * Making Histograms of Construction Year Raw and Normalized (Z-Score) Values
-           
-Feedback is very welcome!
-
-Mark Bauer
+  * Making Histograms of Construction Year Raw and Normalized (Z-Score) Values         
