@@ -61,7 +61,6 @@ You can view these notebooks through your browser by clicking *View* under the *
 
 I can be reached at:  
 
-[Twitter](https://twitter.com/markbauerwater)  
-[LinkedIn](https://www.linkedin.com/in/markebauer/)  
-[GitHub](https://github.com/mebauer)
-
+Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
+LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
+GitHub: [mebauer](https://github.com/mebauer)
