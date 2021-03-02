@@ -2,7 +2,6 @@
 
 Mark Bauer
 
-
 Table of Contents
 =================
 
@@ -10,7 +9,6 @@ Table of Contents
    * [2. Notebooks](#2-Notebooks)
    * [3. Data](#3-Data)
    * [4. Additional Resources](#4-Additional-Resources)
-
 
 # 1. Introduction
 
@@ -28,8 +26,7 @@ Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/d
 
 Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
 
-You can run an interactive example on MyBinder through your browser - no installation required: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb).
-
+You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb). Loading MyBinder is a bit slow and takes ~5 minutes, but it will load eventually.
 
 # 2. Notebooks
 
@@ -67,6 +64,4 @@ I can be reached at:
 [Twitter](https://twitter.com/markbauerwater)  
 [LinkedIn](https://www.linkedin.com/in/markebauer/)  
 [GitHub](https://github.com/mebauer)
-
-
 
