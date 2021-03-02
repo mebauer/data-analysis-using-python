@@ -1,18 +1,22 @@
 # Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data
 
-*Mark Bauer*
+Mark Bauer
 
 
 Table of Contents
 =================
 
    * [1. Introduction](#1-Introduction)
-   * [2. Sections](#2-Sections)
+   * [2. Notebooks](#2-Notebooks)
+   * [3. Data](#3-Data)
+   * [4. Additional Resources](#4-Additional-Resources)
 
 
 # 1. Introduction
 
-*Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data* is a four-part series as listed in the sections below. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). This series exemplifies how data analytics can be used for discovering useful information and supporting decision-making.
+NYC Open Data provides a treasure-trove of information - all publicly available with a click of a button. While having access to data is great, its analysis is often a difficult process for beginners, potentially creating barriers in one's open data journey. Additionally, performing data analysis in a reproducible way is often limited or even discarded altogether.
+
+*Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data* is a four-part series as listed in the sections below. These collection of notebooks serve as references/user guides for how to apply Python to real-world Data Analysis projects. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). This series exemplifies how data analytics can be used for discovering useful information and supporting decision-making.
 
 Sections include:
 
@@ -24,10 +28,12 @@ Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/d
 
 Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
 
-You can run interactive examples on MyBinder through your browser - no installation required: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb).
+You can run an interactive example on MyBinder through your browser - no installation required: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb).
 
 
 # 2. Notebooks
+
+You can view these notebooks through your browser by clicking *View* under the *Static Webpage* column.  
 
 | File Name | Description | Static Webpage |
 | :-------- | :---------- | :------------- |
@@ -47,9 +53,11 @@ You can run interactive examples on MyBinder through your browser - no installat
 | [Neighborhood Tabulation Areas (NTA)](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq) | Boundaries of Neighborhood Tabulation Areas as created by the NYC Department of City Planning using whole census tracts from the 2010 Census as building blocks. These aggregations of census tracts are subsets of New York City's 55 Public Use Microdata Areas (PUMAs). |
 | [NYC Boroughs](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) | GIS data: Boundaries of Boroughs (water areas excluded). |
 
-# 4. Resources
+# 4. Additional Resources
 
-- [NYC Open Data](https://opendata.cityofnewyork.us/)
+- [NYC Open Data](https://opendata.cityofnewyork.us/): Open Data is free public data published by New York City agencies and other partners.  
+- [Sodapy Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-open-data): This tutorial demonstrates how to use sodapy and provides examples of querying data using Socrata Query Language or SoQL.  
+- [Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020](https://github.com/mebauer/nyc-311-street-flooding): Analysis of street flooding complaints with NYC Open Data's 311 dataset. Provides an example of a real-world project using Python for Data Analysis.
 
 
 # Say Hello!   
@@ -57,6 +65,8 @@ You can run interactive examples on MyBinder through your browser - no installat
 I can be reached at:  
 
 [Twitter](https://twitter.com/markbauerwater)  
-[LinkedIn](https://www.linkedin.com/in/markebauer/)
+[LinkedIn](https://www.linkedin.com/in/markebauer/)  
+[GitHub](https://github.com/mebauer)
+
 
 
