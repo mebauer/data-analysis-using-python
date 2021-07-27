@@ -1,7 +1,7 @@
 # Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data
 
 Mark Bauer  
-![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)
+[![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=kobhJAxy3jQ)
 
 Table of Contents
 =================
