@@ -2,7 +2,7 @@
 
 Mark Bauer  
 
-The recording for this workshop can be viewed here: [![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=kobhJAxy3jQ).
+The recording for this workshop can be viewed here: [![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=kobhJAxy3jQ)
 
 Table of Contents
 =================
