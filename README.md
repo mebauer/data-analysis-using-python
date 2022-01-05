@@ -2,7 +2,7 @@
 
 Mark Bauer  
 
-The recording for this workshop can be viewed here: [![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=kobhJAxy3jQ)
+The recording for this presentation can be viewed here: [![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=kobhJAxy3jQ)
 
 Table of Contents
 =================
@@ -21,13 +21,13 @@ NYC Open Data provides a treasure-trove of information - all publicly available 
 
 Sections include:
 
-Part 1: [Reading and Writing Files in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/1-reading-writing-files).
+Part 1: Reading and Writing Files in Python
  
-Part 2: [Data Inspection, Cleaning, and Wrangling in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/2-data-inspection-cleaning-wrangling).
+Part 2: Data Inspection, Cleaning, and Wrangling in Python]
 
-Part 3: [Plotting and Data Visualization in Python](https://github.com/mebauer/data-analysis-using-python/tree/master/3-plotting-data-visualizations).
+Part 3: Plotting and Data Visualization in Python
 
-Part 4: [Geospatial Data and Mapping](https://github.com/mebauer/data-analysis-using-python/tree/master/4-geospatial-data-mapping).
+Part 4: Geospatial Data and Mapping
 
 You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb). Loading MyBinder is a bit slow and takes ~5 minutes, but it will load eventually.
 
@@ -37,7 +37,7 @@ You can view these notebooks through your browser by clicking *View* under the *
 
 | File Name | Description | Static Webpage |
 | :-------- | :---------- | :------------- |
-| [1_reading_writing_files.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) | Reading and Writing Files. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) |
+| [1_reading_writing_files.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) | Reading and Writing Files. | [View](https://nbviewer.org/github/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb) |
 | [2_data_inspection_cleaning_wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb) | Data Inspection, Cleaning, and Wrangling. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb) |
 | [3_plotting_visualizations.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb) | Plotting and Data Visualization. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb) |
 | [4_geospatial_data_mapping.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb) | Geospatial Data and Mapping. | [View](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb) |
