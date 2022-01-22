@@ -11,23 +11,16 @@ Key sections as follows:
 Data Inspection  
 * Previewing Data  
 * Calcualting Summary Statistics
-* Identifying Null/NA Values
-       
+* Identifying Null/NA Values     
        
 Data Cleaning & Wrangling  
 * Previewing Column Values
+* Making Box Plots
 * Identifying Outliers in Column
-* Replacing Outliers with Null/NA Values
-* Dropping Null/NA Values
+* Dropping Null Values
 * Filling In Null/NA Values With Median
-       
-       
-Detecting Outliers  
-* Making a Box Plot  
-  * Calculating Interquartile Range (IQR)
-  * Box Plot of Construction Year Values
-  * Making Histograms of Values Above and Below Box Plot Whiskers
-* Z-Scores  
-  * Calculating Z-Scores
-  * Identifying Possible Outliers from Z-Score
-  * Making Histograms of Construction Year Raw and Normalized (Z-Score) Values         
+
+Sample Analysis
+* Timeseries of Year Built
+* Attempting to Identify the Oldest Building in NYC
+               
