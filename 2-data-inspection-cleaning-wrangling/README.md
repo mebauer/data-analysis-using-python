@@ -11,14 +11,14 @@ Key sections as follows:
 Data Inspection  
 * Previewing Data  
 * Calcualting Summary Statistics
-* Identifying Null/NA Values     
+* Identifying Null Values     
        
 Data Cleaning & Wrangling  
 * Previewing Column Values
 * Making Box Plots
 * Identifying Outliers in Column
 * Dropping Null Values
-* Filling In Null/NA Values With Median
+* Filling In Null Values With Median
 
 Sample Analysis
 * Timeseries of Year Built
