@@ -75,3 +75,5 @@ I can be reached at:
 Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
 LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
 GitHub: [mebauer](https://github.com/mebauer)
+
+Keywords: Data Analysis, Python, pandas, numpy, matplotlib, seaborn, GeoPandas, New York City, NYC, NYC Open Data, Open Data, Open Source, Open Science, Exploratory Data Analysis, EDA, Data Science, Data Wrangling, Data Inspection, Data Analyst, Data Analytics, Building Footprints, PLUTO
