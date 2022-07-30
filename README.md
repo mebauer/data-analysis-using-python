@@ -21,13 +21,17 @@ NYC Open Data provides a treasure-trove of information - all publicly available 
 
 Sections include:
 
-Part 1: Reading and Writing Files in Python
+**Part 1: Reading and Writing Files in Python**    
+Part 1 demonstrates various ways to read (load) and write (save) data using the Python programming language. The datasets contain common file formats such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information) and zip files. The project is located in my notebook [1_reading_writing_files.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb). Additionally, you can view the notebook as a static webpage [here](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/1-reading-writing-files/1_reading_writing_files.ipynb).
  
-Part 2: Data Inspection, Cleaning, and Wrangling in Python]
+**Part 2: Data Inspection, Cleaning, and Wrangling in Python**  
+Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data. The project is located in my notebook [2_data_inspection_cleaning_wrangling.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb). Additionally, you can view the notebook as a static webpage [here](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/2-data-inspection-cleaning-wrangling/2_data_inspection_cleaning_wrangling.ipynb).
 
-Part 3: Plotting and Data Visualization in Python
+**Part 3: Plotting and Data Visualization in Python**  
+Part 3 demonstrates various examples of plotting and data visualizations. The project is located in my notebook [3_plotting_visualizations.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb). Additionally, you can view the notebook as a static webpage [here](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/3-plotting-data-visualizations/3_plotting_visualizations.ipynb).
 
-Part 4: Geospatial Data and Mapping
+**Part 4: Geospatial Data and Mapping**  
+Part 4 demonstrates various workflows of working with geospatial data and mapping. The project is located in my notebook [4_geospatial_data_mapping.ipynb](https://github.com/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb). Additionally, you can view the notebook as a static webpage [here](https://nbviewer.jupyter.org/github/mebauer/data-analysis-using-python/blob/master/4-geospatial-data-mapping/4_geospatial_data_mapping.ipynb).
 
 You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?filepath=mybinder-examples%2Fexamples.ipynb). Loading MyBinder is a bit slow and takes ~5 minutes, but it will load eventually.
 
