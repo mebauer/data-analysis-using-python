@@ -22,16 +22,16 @@ NYC Open Data provides a treasure-trove of information - all publicly available 
 Sections include:
 
 **Part 1: Reading and Writing Files in Python**    
-Part 1 demonstrates various ways to read (load) and write (save) data using the Python programming language. The datasets contain common file formats such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information) and zip files.
+Demonstrates various ways to read (load) and write (save) data using the Python programming language. The datasets contain common file formats such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information) and zip files.
  
 **Part 2: Data Inspection, Cleaning, and Wrangling in Python**  
-Part 2 demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data.
+Demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data.
 
 **Part 3: Plotting and Data Visualization in Python**  
-Part 3 demonstrates various examples of plotting and data visualizations.
+Demonstrates various examples of plotting and data visualizations.
 
 **Part 4: Geospatial Data and Mapping**  
-Part 4 demonstrates various workflows of working with geospatial data and mapping.
+Demonstrates various workflows of working with geospatial data and mapping.
 
 You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/mebauer-data-an-is-using-python-sfwsnr6g/notebooks/mybinder-examples/examples.ipynb).
 
@@ -69,7 +69,6 @@ You can view these notebooks through your browser by clicking *View* under the *
 
 - [NYC Open Data](https://opendata.cityofnewyork.us/): Open Data is free public data published by New York City agencies and other partners.  
 - [Sodapy Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-open-data): This tutorial demonstrates how to use sodapy and provides examples of querying data using Socrata Query Language or SoQL.  
-- [Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020](https://github.com/mebauer/nyc-311-street-flooding): Analysis of street flooding complaints with NYC Open Data's 311 dataset. Provides an example of a real-world project using Python for Data Analysis.
 
 
 # Say Hello!   
@@ -80,4 +79,4 @@ Twitter: [markbauerwater](https://twitter.com/markbauerwater)
 LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
 GitHub: [mebauer](https://github.com/mebauer)
 
-Keywords: Data Analysis, Python, pandas, numpy, matplotlib, seaborn, GeoPandas, New York City, NYC, NYC Open Data, Open Data, Open Source, Open Science, Exploratory Data Analysis, EDA, Data Science, Data Wrangling, Data Inspection, Data Analyst, Data Analytics, Building Footprints, PLUTO
+Keywords: *Data Analysis, Data Science, Python, pandas, numpy, matplotlib, seaborn, GeoPandas, Jupyter Notebook, Anaconda, NYC Open Data, Building Footprints, PLUTO, Open Data, Open Source, Open Science, Exploratory Data Analysis, EDA*
