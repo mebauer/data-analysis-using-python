@@ -33,7 +33,7 @@ Part 3 demonstrates various examples of plotting and data visualizations.
 **Part 4: Geospatial Data and Mapping**  
 Part 4 demonstrates various workflows of working with geospatial data and mapping.
 
-You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fmebauer%2Fdata-analysis-using-python%2Fblob%2Fmaster%2Fmybinder-examples%2Fexamples.ipynb). Loading MyBinder is a bit slow and takes ~5 minutes, but it will load eventually.
+You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/data-analysis-using-python/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fmebauer%2Fdata-analysis-using-python%2Fblob%2Fmaster%2Fmybinder-examples%2Fexamples.ipynb).
 
 # 2. Notebooks
 
