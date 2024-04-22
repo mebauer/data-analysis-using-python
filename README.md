@@ -1,6 +1,6 @@
 # Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data
 
-Mark Bauer  
+Author: Mark Bauer  
 
 The recording for this presentation can be viewed here: [![YouTube Video Views](https://img.shields.io/youtube/views/kobhJAxy3jQ?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=kobhJAxy3jQ)
 
@@ -33,8 +33,6 @@ Demonstrates various examples of plotting and data visualizations.
 **Part 4: Geospatial Data and Mapping**  
 Demonstrates various workflows of working with geospatial data and mapping.
 
-You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/mebauer-data-an-is-using-python-sfwsnr6g/notebooks/mybinder-examples/examples.ipynb).
-
 # 2. Notebooks
 
 You can view these notebooks through your browser by clicking *View* under the *Static Webpage* column.  
@@ -63,7 +61,6 @@ You can view these notebooks through your browser by clicking *View* under the *
 - [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
     - [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
     - [nbviewer](https://nbviewer.jupyter.org/): A web application that lets you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others.
-    - [Binder](https://mybinder.org/): The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments.
 
 # 5. Additional Resources
 
