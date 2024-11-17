@@ -17,20 +17,20 @@ Table of Contents
 
 NYC Open Data provides a treasure-trove of information - all publicly available with a click of a button. While having access to data is great, its analysis is often a difficult process for beginners, potentially creating barriers in one's open data journey. Additionally, performing data analysis in a reproducible way is often limited or even discarded altogether.
 
-*Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data* is a four-part series as listed in the sections below. These collection of notebooks serve as references/user guides for how to apply Python to real-world Data Analysis projects. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). This series exemplifies how data analytics can be used for discovering useful information and supporting decision-making.
+*Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data* is a four-part series as listed in the sections below. These collection of notebooks serve as references and user guides for how to apply Python to real-world Data Analysis projects. The repository features notebooks that will utilize the [Python programming language](https://www.python.org/) and datasets from [NYC Open Data](https://opendata.cityofnewyork.us/). This series exemplifies how data analytics can be used for discovering useful information and supporting decision-making.
 
 Sections include:
 
-**Part 1: Reading and Writing Files in Python**    
+- **Part 1: Reading and Writing Files in Python**    
 Demonstrates various ways to read (load) and write (save) data using the Python programming language. The datasets contain common file formats such as comma-separated values (csv), JavaScript Object Notation (json), shapefiles (i.e. format for geometric location and attribute information) and zip files.
  
-**Part 2: Data Inspection, Cleaning, and Wrangling in Python**  
+- **Part 2: Data Inspection, Cleaning, and Wrangling in Python**  
 Demonstrates various ways to to inspect, clean, wrangle, and detect any outliers in your data.
 
-**Part 3: Plotting and Data Visualization in Python**  
+- **Part 3: Plotting and Data Visualization in Python**  
 Demonstrates various examples of plotting and data visualizations.
 
-**Part 4: Geospatial Data and Mapping**  
+- **Part 4: Geospatial Data and Mapping**  
 Demonstrates various workflows of working with geospatial data and mapping.
 
 # 2. Notebooks
@@ -68,12 +68,10 @@ You can view these notebooks through your browser by clicking *View* under the *
 - [Sodapy Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-open-data): This tutorial demonstrates how to use sodapy and provides examples of querying data using Socrata Query Language or SoQL.  
 
 
-# Say Hello!   
-
-I can be reached at:  
-
-Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
-LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
-GitHub: [mebauer](https://github.com/mebauer)
+# Say Hello! 
+Feel free to reach out for further discussions.
+- LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
+- GitHub: [mebauer](https://github.com/mebauer)  
+- Portfolio: [mebauer.github.io](https://mebauer.github.io/)
 
 Keywords: *Data Analysis, Data Science, Python, pandas, numpy, matplotlib, seaborn, GeoPandas, Jupyter Notebook, Anaconda, NYC Open Data, Building Footprints, PLUTO, Open Data, Open Source, Open Science, Exploratory Data Analysis, EDA*
